@@ -1,0 +1,13 @@
+C:\Users\Администратор\source\repos\TestRoR\TestRoR\bin\Debug\netcoreapp3.1\TestRoR.exe
+C:\Users\Администратор\source\repos\TestRoR\TestRoR\bin\Debug\netcoreapp3.1\TestRoR.deps.json
+C:\Users\Администратор\source\repos\TestRoR\TestRoR\bin\Debug\netcoreapp3.1\TestRoR.runtimeconfig.json
+C:\Users\Администратор\source\repos\TestRoR\TestRoR\bin\Debug\netcoreapp3.1\TestRoR.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\TestRoR\TestRoR\bin\Debug\netcoreapp3.1\TestRoR.dll
+C:\Users\Администратор\source\repos\TestRoR\TestRoR\bin\Debug\netcoreapp3.1\TestRoR.pdb
+C:\Users\Администратор\source\repos\TestRoR\TestRoR\obj\Debug\netcoreapp3.1\TestRoR.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\TestRoR\TestRoR\obj\Debug\netcoreapp3.1\TestRoR.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\TestRoR\TestRoR\obj\Debug\netcoreapp3.1\TestRoR.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\TestRoR\TestRoR\obj\Debug\netcoreapp3.1\TestRoR.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\TestRoR\TestRoR\obj\Debug\netcoreapp3.1\TestRoR.dll
+C:\Users\Администратор\source\repos\TestRoR\TestRoR\obj\Debug\netcoreapp3.1\TestRoR.pdb
+C:\Users\Администратор\source\repos\TestRoR\TestRoR\obj\Debug\netcoreapp3.1\TestRoR.genruntimeconfig.cache
